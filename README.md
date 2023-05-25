@@ -1,6 +1,6 @@
-# rshell
+# rshell preface
 The shell implemented based on the system call, I call it rshell  
-# install method  
+# install
 ./build.sh
 # run  
 ./sh.out

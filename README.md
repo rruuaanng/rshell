@@ -1,5 +1,5 @@
 # rshell
-The shell implemented based on the system call, I call it rshell  
+The shell implemented based on the system call
 # install
 ./build.sh
 # run  

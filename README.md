@@ -4,6 +4,4 @@ The shell implemented based on the system call, I call it rshell
 ./build.sh
 # run  
 ./sh.out
-# test
-./build.sh TEST
 
